@@ -1,6 +1,7 @@
+![Cybersecurity Expert & Full-Stack Developer | Lifelong Learner](https://github.com/Raydan-Bou-Hadir/Raydan-Bou-Hadir/blob/main/banner-github.png)
+
 ### Hi there 👋, Raydan Bou Hadir
 #### Cybersecurity Expert & Full-Stack Developer | Lifelong Learner
-![Cybersecurity Expert & Full-Stack Developer | Lifelong Learner](https://github.com/Raydan-Bou-Hadir/Raydan-Bou-Hadir/blob/main/git-hub%20banner%20image2.jpg)
 
 Hi! I'm Raydan Bou Hadir, a passionate programmer with a strong focus on cybersecurity and full-stack development. I love exploring innovative technologies, solving complex problems, and developing solutions that enhance digital security and user experiences. With a background in programming and certifications in cybersecurity and front-end development, I aim to combine creativity and technical expertise to build secure, scalable, and user-friendly applications.
 

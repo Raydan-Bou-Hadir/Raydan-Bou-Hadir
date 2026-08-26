@@ -15,3 +15,40 @@ Alongside software development, I'm building deeper expertise in **Application S
 - 🔎 Vulnerability Research
 - ⚔️ Offensive Security
 - 💻 Secure Software Development
+
+## 🛠️ Technical Skills & Tools
+
+### Security
+- Web Application Penetration Testing
+- API Security Testing
+- Vulnerability Assessment
+- Reconnaissance & Enumeration
+- Offensive Security
+- OWASP Testing Methodology
+
+### Security Tools
+- Burp Suite
+- Nmap
+- Metasploit Framework
+- sqlmap
+- Gobuster
+- Dirsearch
+- DirBuster
+- httpx
+- XSStrike
+- Postman
+- Kali Linux
+
+### Development
+- JavaScript
+- TypeScript
+- Python
+- Java
+- React
+- Node.js
+- Deno
+
+### Backend & Platforms
+- Appwrite
+- Supabase
+- REST APIs
